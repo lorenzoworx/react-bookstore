@@ -7,7 +7,6 @@ import {
 import BookList from './components/BookList';
 import Categories from './components/Categories';
 import RouteLayout from './components/RouteLayout';
-import './App.css';
 
 const routes = createRouter(
   createRoutesFromElements(
